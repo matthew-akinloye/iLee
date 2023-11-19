@@ -1187,7 +1187,7 @@
   }
   .mean-container a.meanmenu-reveal span {
     position: relative;
-    margin-top: -7px;
+  
     top: 9px;
   }
   .mobile-nav.mean-container .mean-nav ul li a.active {
