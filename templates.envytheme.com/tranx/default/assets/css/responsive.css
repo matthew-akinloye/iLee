@@ -1183,7 +1183,7 @@
     max-width: 100px;
   }
   .mean-container .mean-bar {
-    background-color: var(--black-color);
+    background-color: var(--green-color);
   }
   .mean-container a.meanmenu-reveal span {
     position: relative;
